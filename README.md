@@ -49,18 +49,6 @@ Cypress, Selenium, Gherkin
 
 ---
 
-## 📈 Career Timeline
-
-```mermaid
-timeline
-  title Professional Experience
-  2019 : EPAM — Full Stack / TAT Engineer
-  2021 : NRboom — Full Stack Developer
-  2022 : Supa Doge — Smart Contract / Full Stack Dev
-  2023 : EVAA Protocol — Core Engineer / Eng Lead
-```
-
----
 
 ## 🔗 Links
 
